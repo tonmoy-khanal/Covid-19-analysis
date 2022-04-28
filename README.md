@@ -1,7 +1,7 @@
 # Covid-19 Analysis and Prediction - A Case Study using Machine Learning
 *************************************************************************************
 
-It's a Machine learning project where I have analyzed the current situation of Covid-19 of India with respect to the world and predicted the cases and outcomes of the analysis.
+It's a Machine learning project where I have analyzed the current situation (15 Nov 2020) of Covid-19 of India with respect to the world and predicted the cases and outcomes of the analysis.
 
 <a href = "https://github.com/tonmoy-khanal/Covid-19-analysis"><img src = "![coronavirus-Information](https://user-images.githubusercontent.com/38865308/165773039-e42703c8-97b0-41c0-ae49-a8fcad989621.png)
 "></a>
